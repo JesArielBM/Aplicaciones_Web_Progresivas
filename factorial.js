@@ -13,5 +13,5 @@ const suma = (sumar) =>{
 }
 
 function sumar(n1,n2){
-    console.log
+    console.log(suma)
 }
